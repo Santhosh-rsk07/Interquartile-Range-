@@ -1,9 +1,3 @@
+numpy
 matplotlib
-Google colab
-Pandas
-scikit-learn
-## Dataset Inputs
-Age
-Headache
-MRI Score
-Tumor Size
+Googlecolab  
